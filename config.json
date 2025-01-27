@@ -1,0 +1,7 @@
+{
+    "rconIP": "0.0.0.0",
+    "rconPort": 27015,
+    "rconPassword": "XXXXXXXXXXXXXXXXXXXXXXXX",
+    "notifyChannel": 10000000000000000,
+    "botToken": "Enter your bot token here"
+}
